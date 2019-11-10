@@ -1,0 +1,2 @@
+name;email;gender;add;city;dob
+Medha;akoopraba4@gmail.com;FEMALE;abc;xyz;12-12-1997

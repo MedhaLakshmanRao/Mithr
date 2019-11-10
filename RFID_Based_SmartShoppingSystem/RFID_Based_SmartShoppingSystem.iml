@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="RXTXcomm1" level="project" />
+    <orderEntry type="library" exported="" name="mail" level="project" />
+    <orderEntry type="library" exported="" name="jar files" level="project" />
+    <orderEntry type="library" exported="" name="lib" level="project" />
+    <orderEntry type="library" exported="" name="RXTXcomm" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/jar files" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$MODULE_DIR$/jar files/javamail-1.4.5/docs/javadocs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/jar files" />
+          <root url="file://$MODULE_DIR$/jar files/javamail-1.4.5/demo" />
+          <root url="file://$MODULE_DIR$/jar files/javamail-1.4.5/demo/client" />
+          <root url="file://$MODULE_DIR$/jar files/javamail-1.4.5/demo/logging" />
+          <root url="file://$MODULE_DIR$/jar files/javamail-1.4.5/demo/outlook" />
+          <root url="file://$MODULE_DIR$/jar files/javamail-1.4.5/demo/servlet" />
+          <root url="file://$MODULE_DIR$/jar files/javamail-1.4.5/demo/webapp/src/classes" />
+          <root url="file://$MODULE_DIR$/jar files/javamail-1.4.5/demo/webapp/src/taglib" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/jar files" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/jar files" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/jar files/jdatechooser" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/jar files/jdatechooser" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/jar files/javamail-1.4.5" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/jar files/javamail-1.4.5" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/jar files/mfz-rxtx-2.2-20081207-win-x64" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://$MODULE_DIR$/jar files/mfz-rxtx-2.2-20081207-win-x64" />
+        </NATIVE>
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/jar files/mfz-rxtx-2.2-20081207-win-x64" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/jar files/mysql-connector-java-5.1.42-bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/jar files/mysql-connector-java-5.1.42-bin" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/jar files/rxtx-2.1-7-bins-r2" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/jar files/rxtx-2.1-7-bins-r2" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/jar files/mysql-connector-java-5.1.42-bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/jar files/mysql-connector-java-5.1.42-bin" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
