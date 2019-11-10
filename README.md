@@ -1,1 +1,1 @@
-# Mithr
+Mithr-The Ideal Shopping Assist
